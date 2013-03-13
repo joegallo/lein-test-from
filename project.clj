@@ -1,4 +1,4 @@
-(defproject lein-test-from "0.1.0"
+(defproject lein-test-from "0.2.0-SNAPSHOT"
   :description "Run your test namespaces starting from a particular namespace"
   :url "https://github.com/joegallo/lein-test-from"
   :license {:name "Eclipse Public License"
